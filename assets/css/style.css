@@ -245,28 +245,28 @@ body {
 }
 
 #hangman p {
-	top: 175px;
-	right: 32px;
+	top: 160px;
+	right: 14px;
 }
 
 #rpg p {
-	top: 175px;
-	right: 32px;
+	top: 160px;
+	right: 14px;
 }
 
 #widget p {
-	top: 425px;
-	right: 32px;
+	top: 387px;
+	right: 14px;
 }
 
 #trivia p {
-	top: 425px;
-	right: 346px;
+	top: 387px;
+	right: 292px;
 }
 
 #RSP p {
-	top: 678px;
-	right: 346px;
+	top: 617px;
+	right: 292px;
 }
 
 #contact_form_box {
@@ -276,7 +276,7 @@ body {
 	margin-bottom: 7em;
 	border-width: 1px;
 	border-color: #dddddd;
-	margin-top: 100px;
+	margin-top: 0px;
 }
 
 .ext_links img {
@@ -310,6 +310,8 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
+
+
 /* Add a background color and some padding around the form */
 .container {
     border-radius: 5px;
@@ -326,6 +328,8 @@ div.container {
 	margin: 0px;
 	color: white;
 }
+
+
 
 footer {
 	background-color: #666666;
